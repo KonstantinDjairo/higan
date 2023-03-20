@@ -27,6 +27,11 @@ Official Releases
 Official releases are available from
 [the GitHub releases page](https://github.com/higan-emu/higan/releases).
 
+
+
+Dependencies:
+> https://github.com/KonstantinDjairo/higan/blob/9bf1b3314b2bcc73cbc11d344b369c31562aff10/.github/workflows/build.yml#L29
+
 Nightly Builds
 --------------
 
